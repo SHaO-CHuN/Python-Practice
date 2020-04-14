@@ -20,21 +20,8 @@ for i in fruit:
 
 
 # # 練習二：開獎練習
-
-# import random
-
 # # 1.利用random隨機產生一組數字
-
-# num = random.random()
-# print(num)
-
 # # 2.利用if else來判斷<0.1就顯示中獎，其餘顯示沒中獎(中獎機率10%)。
-
-# if num <0.1:
-#     print('中獎')
-# else:
-#     print('沒中獎')
-
 # # 3.利用for迴圈連續開三次。
 
 import random
